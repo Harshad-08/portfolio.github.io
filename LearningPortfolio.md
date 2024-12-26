@@ -55,6 +55,10 @@
     </style>
 </head>
 <body>
+<header>
+        <h1>Reflections</h1>
+    </header>
+
     
     <div class="container">
         <h2>Question 1: Challenges in Learning/Understanding These Concepts</h2>
