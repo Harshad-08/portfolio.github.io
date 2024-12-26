@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,11 +55,9 @@
     </style>
 </head>
 <body>
-<header>
+    <header>
         <h1>Reflections</h1>
     </header>
-
-    
     <div class="container">
         <h2>Question 1: Challenges in Learning/Understanding These Concepts</h2>
         <h3>Time Complexity Analysis</h3>
