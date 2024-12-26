@@ -1,13 +1,13 @@
 # portfolio.github.io
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm Harshad👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **Project 
+- **Project Suply chain Management System
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -21,20 +21,20 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## Portfolio Topic
 
 <dl>
-<dt>Course Name</dt>
+<dt>course name</dt>
 <dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dt>Design and Analysis of Algorithms</dt>
+<dd>24ECAP202</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Harshad Magdum</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01fe23bci002</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>KMMR</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Course project</dd>
 </dl>
 
 <br> 
