@@ -6,7 +6,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 
+- Project 
 - **Project Suply chain Management System
 
 ## 🚀 Skills
